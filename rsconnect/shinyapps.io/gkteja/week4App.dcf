@@ -1,0 +1,13 @@
+name: week4App
+title: week4App
+username:
+account: gkteja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 350701
+bundleId: 1399189
+url: https://gkteja.shinyapps.io/week4App/
+when: 1527626169.15895
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Documentation.html

@@ -1,0 +1,14 @@
+---
+title: "Documentation"
+author: "Krishna Teja"
+date: "May 30, 2018"
+output: html_document
+---
+
+##Documentation
+Histogram is constructed using the data from faithfiul data set.
+
+When you select a slider value that determines the number of bins.
+Selecting a colour decides the colour of the bars and checkbox determines if mean of the value is to be displayed.
+
+To display the mean we use abline() method.
